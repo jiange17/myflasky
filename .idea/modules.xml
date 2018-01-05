@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/repos/lark/anacapa/.idea/anacapa.iml" filepath="$USER_HOME$/repos/lark/anacapa/.idea/anacapa.iml" />
+      <module fileurl="file://$USER_HOME$/flasky/flasky/.idea/flasky.iml" filepath="$USER_HOME$/flasky/flasky/.idea/flasky.iml" />
+      <module fileurl="file://$USER_HOME$/repos/lark/im-protobuf/.idea/im-protobuf.iml" filepath="$USER_HOME$/repos/lark/im-protobuf/.idea/im-protobuf.iml" />
+      <module fileurl="file://$USER_HOME$/repos/lark/im-server/.idea/im-server.iml" filepath="$USER_HOME$/repos/lark/im-server/.idea/im-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myflasky.iml" filepath="$PROJECT_DIR$/.idea/myflasky.iml" />
+      <module fileurl="file://$USER_HOME$/repos/lark/passport/.idea/passport.iml" filepath="$USER_HOME$/repos/lark/passport/.idea/passport.iml" />
+      <module fileurl="file://$USER_HOME$/repos/lark/rpc-interface/.idea/rpc-interface.iml" filepath="$USER_HOME$/repos/lark/rpc-interface/.idea/rpc-interface.iml" />
+      <module fileurl="file://$USER_HOME$/repos/lark/saipan/.idea/saipan.iml" filepath="$USER_HOME$/repos/lark/saipan/.idea/saipan.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/temp2/.idea/temp2.iml" filepath="$USER_HOME$/PycharmProjects/temp2/.idea/temp2.iml" />
     </modules>
   </component>
 </project>

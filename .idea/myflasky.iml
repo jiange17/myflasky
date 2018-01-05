@@ -4,6 +4,14 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="im-server" />
+    <orderEntry type="module" module-name="rpc-interface" />
+    <orderEntry type="module" module-name="saipan" />
+    <orderEntry type="module" module-name="im-protobuf" />
+    <orderEntry type="module" module-name="anacapa" />
+    <orderEntry type="module" module-name="passport" />
+    <orderEntry type="module" module-name="flasky" />
+    <orderEntry type="module" module-name="temp2" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
